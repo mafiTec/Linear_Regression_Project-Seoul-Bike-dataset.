@@ -1,5 +1,5 @@
 
-- <b>Accuracy:</b> 88.39%
+- <b>Accuracy:</b> 0.5346190460151219
 - <b>skills used:</b> sklearn,pandas,numpy,matplotlib, Seaborn, Logistic Regression
 - <b>project Description:</b>Using recorded weather forecasts i trained a model which predict the possible amount of customers would be interested in renting a bike for a             particular day
 
